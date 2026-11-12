@@ -35,4 +35,4 @@ Esta aplicación de escritorio permite la administración de una cartera de clie
 ---
 **Desarrollado por:** Stefanía Eliana Randazzo  
 **Carrera:** Analista Universitario en Sistemas  
-**Institución:** Colegio Universitario IES Siglo 21
+**Institución:** Colegio Universitario IES
